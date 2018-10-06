@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+background:#0CF;
+background-attachment:fixed;
+background-size:cover;
+}
+
+#header{
+margin-top:60px;
+width:1100px;
+height:150px;
+background:#0F0;
+margin-bottom:5px;
+}
+
+#menu{
+width:1100px;
+height:40px;
+background:url(../img/download.jpg);
+margin-bottom:5px;
+}
+
+#side-left{
+width:225px;
+min-height:600px;
+background:#999;
+float:left;
+margin-bottom:5px;
+margin-right:5px;
+border-radius:20px 20px 20px 20px;
+}
+
+#main{
+width:640px;
+min-height:600px;
+background:#FFF;
+float:left;
+margin-bottom:5px;
+}
+
+#side-right{
+width:225px;
+min-height:600px;
+background:#333;
+float:right;
+margin-left:5px;
+margin-bottom:5px;
+border-radius:20px 20px 20px 20px;
+}
+
+#footer-up{
+width:1100px;
+height:40px;
+background:#C90;
+clear:both;
+margin-bottom:5px;
+}
+
+#footerdown-left{
+width:695px;
+height:80px;
+background:#60F;
+float:left;
+border-radius:20px 20px 0 0;
+}
+
+#footer-downright{
+width:400px;
+height:80px;
+background:#3F3;
+float:right;
+border-radius:20px 20px 0 0;
+}
+
+#conta{
+box-shadow:0 0 20px #CCFF66;
+margin:0 auto;
+width:1100px;
+}
